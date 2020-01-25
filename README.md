@@ -1,14 +1,16 @@
-## Elham Pejhan
+## About me
 
 I’m Elham, a guest visitor student in the Machine Learning Section at the University of Copenhagen, where I’m a member of the [CoAStaL](https://coastalcph.github.io/) NLP group under the supervision of Desmond Elliott.My interest is multimodal machine learning at the intersection of natural language processing and computer vision. My recent work includes text-to-image generation to generate images based on the related text using Generative Adversarial Networks (GANs). 
 
 ## Education
    
 2019-Present Visitor student, University of Copenhagen.
+
              Research: Multimodal processing.
              Supervisor: Desmond Elliott.
              
-2011-2013    MSc in Computing Engineering (Artificial Intelligence), Shiraz University, Shiraz, Iran.
+2011-2013    MSc in Computing Engineering (Artificial Intelligence), Shiraz University, Shiraz, Iran.\
+
              Thesis: A biologically Inspired Solution for Traveling Salesman Problem.
              Supervisor: Eghbal Mansoori.
              
