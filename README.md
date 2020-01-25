@@ -6,11 +6,9 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
    
 2019-Present   Visitor student, University of Copenhagen. Supervisor: Desmond Elliott.
              
-2011-2013    MSc in Computing Engineering (Artificial Intelligence), Shiraz University, Shiraz, Iran.
-             Thesis: A biologically Inspired Solution for Traveling Salesman Problem.
-             Supervisor: Eghbal Mansoori.
+2011-2013      MSc in Computing Engineering Shiraz University. Supervisor: Eghbal Mansoori.
              
-2006-2010    BSc in Computer Engineering (Software Eng), Payamnoor University, Shiraz,Iran.
+2006-2010      BSc in Computer Engineering (Software Eng), Payamnoor University. 
 
 ## Publications
 
