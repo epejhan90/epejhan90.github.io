@@ -1,7 +1,6 @@
 ## Elham Pejhan
 
-A guest visitor at the University of Copenhagen in CoAStaL NLP group  as a visitor student under the supervision of Desmond Elliott.[Jekyll](https://jekyllrb.com/)
-You can use the [editor on GitHub](https://github.com/epejhan90/epejhan90.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+A guest visitor at the University of Copenhagen in [CoAStaL](https://coastalcph.github.io/) NLP group  as a visitor student under the supervision of Desmond Elliott.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
