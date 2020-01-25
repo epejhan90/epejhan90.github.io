@@ -4,9 +4,7 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 
 ## Education
    
-2019-Present   Visitor student, University of Copenhagen.
-               Research: Multimodal processing.
-               Supervisor: Desmond Elliott.
+2019-Present   Visitor student, University of Copenhagen. Supervisor: Desmond Elliott.
              
 2011-2013    MSc in Computing Engineering (Artificial Intelligence), Shiraz University, Shiraz, Iran.
              Thesis: A biologically Inspired Solution for Traveling Salesman Problem.
