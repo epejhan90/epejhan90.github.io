@@ -1,11 +1,9 @@
 ---
 layout: default
 ---
-<i class="glyphicon glyphicon-cloud"></i>
-<i class="glyphicon glyphicon-remove"></i>
-<i class="glyphicon glyphicon-user"></i>
-<i class="glyphicon glyphicon-envelope"></i>
-<i class="glyphicon glyphicon-thumbs-up"></i> 
+
+<i class="glyphicon glyphicon-envelope"> emeil </i>
+ 
 <h4> About me </h4>
 <p>
 <img style="padding: 0 5px; float: right; margin-left:5px;" src="profile.jpg" width="150" height="150">
