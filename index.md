@@ -32,13 +32,3 @@ J. Tahmouresnezhad, M. B. Dastgheyb, F. A. Zoj, E. Pejhan, R. Moghaddas, A. Hamz
 E. Pejhan, E. Mansoori. 2013 A biologically inspired solution for fuzzy travelling salesman problem. In International Symposium on Artificial Intelligence and Signal Processing (AISP), Springer, Cham., pp. 277–287
    
 
-
-### Small image
-<img src="\epejhan90.github.io\assets\images\bg_hr.png">
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
