@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-
+<a href="#" class="fa fa-facebook"></a>
 <h4> About me </h4>
 <p>
 <img style="padding: 0 5px; float: right;" src="profile.jpg" width="150" height="150">
