@@ -4,11 +4,11 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 
 ## Education
    
-2019-Present   Visitor student, University of Copenhagen. Supervisor: Desmond Elliott.
+2019-Present: Visitor student_University of Copenhagen. Supervisor: Desmond Elliott.
              
-2011-2013      MSc in Computing Engineering Shiraz University. Supervisor: Eghbal Mansoori.
+2011-2013: MSc_Shiraz University. Supervisor: Eghbal Mansoori.
              
-2006-2010      BSc in Computer Engineering (Software Eng), Payamnoor University. 
+2006-2010: BSc_Computer Engineering (Software Eng), Payamnoor University. 
 
 ## Publications
 
