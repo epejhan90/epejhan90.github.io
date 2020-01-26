@@ -3,13 +3,10 @@ layout: default
 ---
 
 <h4> About me </h4>
-
-<div class="container">
-   <img style="padding: 0 15px; float: right;" src="profile.jpg" width="150" height="150">
-   <img style="padding: 0 15px; float: right;" src="profile.jpg" width="15" height="15">
-</div>
-
-<p style="margin-top: 10px;"> </p>
+<p>
+<img style="padding: 0 5px; float: right;" src="profile.jpg" width="150" height="150">
+</p>
+<p style="margin-top: 20px;"> </p>
 I’m Elham, a guest visitor student in the Machine Learning Section at the University of Copenhagen, where I’m a member of the [CoAStaL](https://coastalcph.github.io/) NLP group under the supervision of [Desmond Elliott](https://elliottd.github.io/index.html).My interest is multimodal machine learning at the intersection of natural language processing and computer vision. My recent work includes text-to-image generation to generate images based on the related text using Generative Adversarial Networks (GANs). 
 
 <h4>Education</h4>
