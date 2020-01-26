@@ -311,6 +311,8 @@ Full-Width Styles
 }
 
 #downloads {
+  visibility : hidden;
+  display: none;
   position: absolute;
   width: 210px;
   z-index: 10;
@@ -332,6 +334,8 @@ Full-Width Styles
 }
 
 .tar_download_link {
+  visibility : hidden;
+  display: none;
   display: block;
   float: right;
   width: 90px;
