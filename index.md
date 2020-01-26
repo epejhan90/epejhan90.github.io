@@ -19,13 +19,6 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 
 
 
-
-2019-Present: Visitor student_University of Copenhagen. Supervisor: Desmond Elliott.
-             
-2011-2013: MSc_Shiraz University. Supervisor: Eghbal Mansoori.
-             
-2006-2010: BSc_Computer Engineering (Software Eng), Payamnoor University. 
-
 ## Publications
 
 E. Pejhan, M. Ghasemzadeh. 2018. Automatic Text-to-Image Generation. 13th International Symposiums on Advances in         Science and Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
@@ -41,24 +34,11 @@ E. Pejhan, E. Mansoori. 2013 A biologically inspired solution for fuzzy travelli
 
 
 ### Small image
-
+<img src="\epejhan90.github.io\assets\images\bg_hr.png">
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
 
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
