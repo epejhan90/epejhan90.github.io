@@ -3,7 +3,6 @@ layout: default
 ---
 
 <i class="glyphicon glyphicon-envelope" width="15" height="15"><a href="">ep@di.ku.ku</a></i>
- 
 <h4> About me </h4>
 <p>
 <img style="padding: 0 5px; float: right; margin-left:5px;" src="profile.jpg" width="150" height="150">
@@ -17,9 +16,9 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 <dt>2019-Present</dt>
 <dd>Visitor student_University of Copenhagen. Supervisor: Desmond Elliott.</dd>
 <dt>2011-2013</dt>
-<dd>MSc_Shiraz University. Supervisor: Eghbal Mansoori.</dd>
+<dd>MSc-Computer Engineering-Shiraz University-Iran. Supervisor: Eghbal Mansoori.</dd>
 <dt>2006-2010</dt>
-<dd>BSc_Computer Engineering (Software Eng), Payamnoor University. </dd>
+<dd>BSc-Computer Engineering-Payamnoor University-Iran. </dd>
 </dl>
 
 
