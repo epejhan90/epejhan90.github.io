@@ -19,7 +19,7 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 
 
 
-# Publications
+<h5>Publications</h5>
 
 E. Pejhan, M. Ghasemzadeh. 2018. Automatic Text-to-Image Generation. 13th International Symposiums on Advances in         Science and Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
 
