@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# About me
+<h4> About me </h4>
 
-I’m Elham, a guest visitor student in the Machine Learning Section at the University of Copenhagen, where I’m a member of the [CoAStaL](https://coastalcph.github.io/) NLP group under the supervision of Desmond Elliott.My interest is multimodal machine learning at the intersection of natural language processing and computer vision. My recent work includes text-to-image generation to generate images based on the related text using Generative Adversarial Networks (GANs). 
+I’m Elham, a guest visitor student in the Machine Learning Section at the University of Copenhagen, where I’m a member of the [CoAStaL](https://coastalcph.github.io/) NLP group under the supervision of [Desmond Elliott](https://elliottd.github.io/index.html).My interest is multimodal machine learning at the intersection of natural language processing and computer vision. My recent work includes text-to-image generation to generate images based on the related text using Generative Adversarial Networks (GANs). 
 
-# Education
+<h4>Education</h4>
 
 <dl>
 <dt>2019-Present</dt>
@@ -19,9 +19,9 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 
 
 
-<h5>Publications</h5>
+<h4>Publications</h4>
 
-E. Pejhan, M. Ghasemzadeh. 2018. Automatic Text-to-Image Generation. 13th International Symposiums on Advances in         Science and Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
+<b>E. Pejhan </b>, M. Ghasemzadeh. 2018. Automatic Text-to-Image Generation. 13th International Symposiums on Advances in         Science and Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
 
 E. Pejhan, M. Ghasemzadeh. 2018. Big Data, Tools, Algorithms and Challenges. 4th National Conference on Distributed Computing and Big Data Processing, May 2018, Azarbaijan Shahid Madani University, Tabriz, Iran.
 
