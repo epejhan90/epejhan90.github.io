@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<p>email : <a href="">ep@di.ku.ku</a></i>
+<p>email : <a href="">ep@di.ku.ku</a></p>
 <h4> About me </h4>
 <p>
 <img style="padding: 0 5px; float: right; margin-left:5px;" src="profile.jpg" width="150" height="150">
