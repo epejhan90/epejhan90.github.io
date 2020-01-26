@@ -363,6 +363,15 @@ form {
   color: white;
 }
 
+.container { 
+  position: relative;
+}
+
+.container img { 
+  display: block; 
+}
+.container .fa-download { position: absolute; bottom:0; left:0; }
+
 /*******************************************************************************
 Full-Width Styles
 *******************************************************************************/
