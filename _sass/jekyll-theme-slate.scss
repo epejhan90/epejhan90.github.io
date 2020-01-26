@@ -321,7 +321,8 @@ Full-Width Styles
 }
 
 .zip_download_link {
-  display: block;
+  visibility : hidden;
+  display: none;
   float: right;
   width: 90px;
   height:70px;
