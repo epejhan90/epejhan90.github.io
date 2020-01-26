@@ -3,12 +3,7 @@ layout: default
 ---
 
 <h4> About me </h4>
-<div>
-<p>
-<img style="padding: 0 15px; float: right;" src="profile.jpg" width="150" height="150">
-<a href="#" class="fa fa-facebook"></a>
-</p>
-</div>
+
 <div class="container">
    <img style="padding: 0 15px; float: right;" src="profile.jpg" width="150" height="150">
    <i class="fas fa-download"></i>
