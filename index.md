@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<i class="glyphicon glyphicon-envelope" width="15" height="15"> ep@di.ku.ku </i>
+<i class="glyphicon glyphicon-envelope" width="15" height="15"><a href="">ep@di.ku.ku</a></i>
  
 <h4> About me </h4>
 <p>
