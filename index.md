@@ -6,7 +6,7 @@ layout: default
 
 <div class="container">
    <img style="padding: 0 15px; float: right;" src="profile.jpg" width="150" height="150">
-   <i class="fas fa-download"></i>
+   <img style="padding: 0 15px; float: right;" src="profile.jpg" width="15" height="15">
 </div>
 
 <p style="margin-top: 10px;"> </p>
