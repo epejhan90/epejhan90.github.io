@@ -431,6 +431,8 @@ Small Device Styles
 @media screen and (max-width: 320px) {
   body {
     font-size:14px;
+    text-align: justify;
+    text-justify: inter-word;
   }
 
   #downloads {
