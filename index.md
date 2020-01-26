@@ -4,7 +4,8 @@ layout: default
 
 <h4> About me </h4>
 <p>
-<img style="padding: 0 15px; float: right;" src="profile.jpg" width="150" height="150">
+<img style="padding: 0 15px; float: right;" src="profile.jpg" width="150" height="150"></p>
+<p>
 <a href="#" class="fa fa-facebook"></a>
 </p>
 <p style="margin-top: 10px;"> </p>
