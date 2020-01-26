@@ -1,8 +1,10 @@
 ---
 layout: default
 ---
-<img src="thumbnail.png" width="500" height="333">
-<h4> About me </h4>
+
+<h4> About me
+<img src="thumbnail.png" width="100" height="100">
+</h4>
 
 I’m Elham, a guest visitor student in the Machine Learning Section at the University of Copenhagen, where I’m a member of the [CoAStaL](https://coastalcph.github.io/) NLP group under the supervision of [Desmond Elliott](https://elliottd.github.io/index.html).My interest is multimodal machine learning at the intersection of natural language processing and computer vision. My recent work includes text-to-image generation to generate images based on the related text using Generative Adversarial Networks (GANs). 
 
