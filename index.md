@@ -26,8 +26,6 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 <h4>Publications</h4>
 Køpsala: Transition-Based Graph Parsing via Efficient Training and Effective Encoding. Daniel Hershcovich, Miryam de Lhoneux, Artur Kulmizev, Elham Pejhan and Joakim Nivre. IWPT 2020 Shared Task.
 
-#Automatic Text-to-Image Generation. Elham Pejhan, Mohammad Ghasemzadeh. 13th International Symposiums on Advances in Science and #Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
-
 Elham Pejhan, Mohammad Ghasemzadeh. 2018. Big Graph Mining and Applications. 10th Conference on Graph Theory and Algebraic Combinatorics, January 2018, Yazd University, Yazd, Iran.
 
 A biologically inspired solution for fuzzy travelling salesman problem. Elham Pejhan, Eghbal Mansoori. International Symposium on Artificial Intelligence and Signal Processing (AISP), Springer, Cham., pp. 277–287.
