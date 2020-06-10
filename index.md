@@ -14,7 +14,7 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 
 <dl>
 <dt>2019-Present</dt>
-<dd>Visitor student_University of Copenhagen. Supervisor: Desmond Elliott.</dd>
+<dd>Visitor student-University of Copenhagen. Supervisor: Desmond Elliott.</dd>
 <dt>2011-2013</dt>
 <dd>MSc-Computer Engineering-Shiraz University-Iran. Supervisor: Eghbal Mansoori.</dd>
 <dt>2006-2010</dt>
@@ -24,16 +24,17 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 
 
 <h4>Publications</h4>
+Køpsala: Transition-Based Graph Parsing via Efficient Training and Effective Encoding. Daniel Hershcovich, Miryam de Lhoneux, Artur Kulmizev, Elham Pejhan and Joakim Nivre. IWPT 2020 Shared Task.
 
-<b>E. Pejhan </b>, M. Ghasemzadeh. 2018. Automatic Text-to-Image Generation. 13th International Symposiums on Advances in         Science and Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
+Automatic Text-to-Image Generation. Elham Pejhan, Mohammad Ghasemzadeh. 13th International Symposiums on Advances in Science and Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
 
-E. Pejhan, M. Ghasemzadeh. 2018. Big Data, Tools, Algorithms and Challenges. 4th National Conference on Distributed Computing and Big Data Processing, May 2018, Azarbaijan Shahid Madani University, Tabriz, Iran.
+Elham Pejhan, Mohammad Ghasemzadeh. 2018. Big Graph Mining and Applications. 10th Conference on Graph Theory and Algebraic Combinatorics, January 2018, Yazd University, Yazd, Iran.
 
-E. Pejhan, M. Ghasemzadeh. 2018. Big Graph Mining and Applications. 10th Conference on Graph Theory and Algebraic Combinatorics, January 2018, Yazd University, Yazd, Iran.
+A biologically inspired solution for fuzzy travelling salesman problem. Elham Pejhan, Eghbal Mansoori. International Symposium on Artificial Intelligence and Signal Processing (AISP), Springer, Cham., pp. 277–287.
 
-J. Tahmouresnezhad, M. B. Dastgheyb, F. A. Zoj, E. Pejhan, R. Moghaddas, A. Hamzeh. 2013. An incomplete and asynchronous algorithm based on localization for distributed constraint optimization. In Information and Knowledge Technology (IKT), 5th Conference, IEEE., Iran, pp. 214–218
+An incomplete and asynchronous algorithm based on localization for distributed constraint optimization. Jafar Tahmouresnezhad, Mohammad Dastgheyb, Fatemeh Alizadeh, Elham Pejhan, Razieh Moghaddas, Ali Hamzeh. Information and Knowledge Technology (IKT), 5th Conference, IEEE., Iran, pp. 214–218.
 
-E. Pejhan, E. Mansoori. 2013 A biologically inspired solution for fuzzy travelling salesman problem. In International Symposium on Artificial Intelligence and Signal Processing (AISP), Springer, Cham., pp. 277–287
+
    
 
 
