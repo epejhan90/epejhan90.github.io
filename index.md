@@ -8,7 +8,7 @@ layout: default
 <img style="padding: 0 5px; float: right; margin-left:5px;" src="profile.jpg" width="150" height="150">
 </p>
 <p style="margin-top: 10px;"> </p>
-I’m Elham, a guest visitor student in the Machine Learning Section at the University of Copenhagen, where I’m a member of the [CoAStaL](https://coastalcph.github.io/) NLP group under the supervision of [Desmond Elliott](https://elliottd.github.io/index.html). My interest is multimodal machine learning at the intersection of natural language processing and computer vision. My recent works include text-to-image generation and semantic parsing. 
+I’m Elham, a guest visitor student in the Machine Learning Section at the University of Copenhagen, where I’m a member of the [CoAStaL](https://coastalcph.github.io/) NLP group under the supervision of [Desmond Elliott](https://elliottd.github.io/index.html). My interests are machine learning, Natural Language Processing, Image processing and computer vision. My recent works include text-to-image generation and semantic parsing. 
 
 <h4>Education</h4>
 
@@ -26,7 +26,7 @@ I’m Elham, a guest visitor student in the Machine Learning Section at the Univ
 <h4>Publications</h4>
 Køpsala: Transition-Based Graph Parsing via Efficient Training and Effective Encoding. Daniel Hershcovich, Miryam de Lhoneux, Artur Kulmizev, Elham Pejhan and Joakim Nivre. IWPT 2020 Shared Task.
 
-Automatic Text-to-Image Generation. Elham Pejhan, Mohammad Ghasemzadeh. 13th International Symposiums on Advances in Science and Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
+#Automatic Text-to-Image Generation. Elham Pejhan, Mohammad Ghasemzadeh. 13th International Symposiums on Advances in Science and #Technology, December 2018, Khavaran Institute higher education, Mashhad, Iran.
 
 Elham Pejhan, Mohammad Ghasemzadeh. 2018. Big Graph Mining and Applications. 10th Conference on Graph Theory and Algebraic Combinatorics, January 2018, Yazd University, Yazd, Iran.
 
